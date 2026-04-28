@@ -10,7 +10,7 @@
       <a-sphere position="0.5, 0.7, 0.75" radius="0.5" color="#3278c3"></a-sphere>
       <a-cylinder position="-0.2, 1.2, -0.25" radius="0.25" height="2" color="#FFC65D"></a-cylinder>
       <a-box position="0, 0.1, 0" rotation="0, 0, 0" depth="3" width="3" height="0.2" color="#9a9898"></a-box>
-      <a-cone position="1, 0.8, -0.5" radiusBotton="0.5" radiusTop="0" height="1" color="#7BC8A4"></a-cone>
+      <a-cone position="0.778, 0.8, -0.5" radius="0.5" height="1" color="#7BC8A4"></a-cone>
       <a-sky color="#ECECEC"></a-sky>
     </a-scene>
   </body>
